@@ -78,4 +78,4 @@ bash
 # Acknowledgements
 The dataset was sourced from the UCI Machine Learning Repository. Special thanks to the contributors for making it available for research and educational purposes.
 
-This README file provides an overview of the project, including the dataset, steps taken, and results obtained. It also includes instructions on how to run the code and a list of dependencies needed to replicate the project.
+This README file provides an overview of the project, including the dataset, steps taken, and results obtained. It also includes instructions on how to run the code and a list of dependencies needed to replicate the project .
